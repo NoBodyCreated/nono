@@ -1,0 +1,11 @@
+{
+  "name": "no-body-lab",
+  "owner": { "name": "Felipe Restrepo Vélez" },
+  "plugins": [
+    {
+      "name": "nono",
+      "source": "./",
+      "description": "NoNo: acompañante en pantalla para Claude Code (Windows). Señala dónde hacer clic en cada paso de una guía, explica el porqué y contesta en un globo."
+    }
+  ]
+}

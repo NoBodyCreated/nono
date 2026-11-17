@@ -1,0 +1,7 @@
+{
+  "name": "nono",
+  "version": "0.3.2",
+  "description": "NoNo: acompanante pixel en pantalla. Senala donde hacer clic en cada paso de una guia, explica el porque, recibe lo que le escribo y se lo pasa a la sesion de Claude, y contesta en un globo corto.",
+  "author": { "name": "Felipe Restrepo" },
+  "types": "./types/index.d.ts"
+}

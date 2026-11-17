@@ -1,0 +1,148 @@
+Required Notice: Copyright (c) 2026 Felipe Restrepo Vélez (https://github.com/NoBodyCreated)
+
+# Licencia del código de NoNo
+
+SPDX-License-Identifier: PolyForm-Strict-1.0.0 (con los permisos adicionales de la sección 2)
+
+Autoría intelectual: Felipe Restrepo (dirección, criterio, decisiones y diseño); asistido por Claude.
+
+Licenciante: Felipe Restrepo Vélez · no.body.created.v0@gmail.com
+Vigente desde el 17 de noviembre de 2026. Es la misma licencia de no.harmony (https://github.com/NoBodyCreated/ecd-abierto), adaptada a NoNo.
+
+El código de NoNo (los archivos `.ts`, `.tsx`, `.ps1`, `.cs` y `.json`) se licencia bajo la **PolyForm Strict License 1.0.0**, cuyo texto oficial va al final de este archivo, más los permisos adicionales de la sección 2. Los permisos adicionales amplían lo que el texto oficial permite, nunca lo reducen. Este documento explica la licencia en palabras simples; si algo de lo que dice choca con el texto oficial o con los permisos adicionales, mandan ellos.
+
+Por qué esta licencia: NoNo se comparte para que cualquiera pueda usarlo y ver cómo está construido, pero NoNo es el isotipo de una marca. Copias modificadas y republicadas por otros diluirían lo que es y lo que hace; por eso no se permiten.
+
+## 1. En palabras simples
+
+**Sí puedes**
+
+- Ver el código y estudiar cómo está construido NoNo.
+- Instalarlo desde este repositorio y usarlo en tus sesiones de Claude Code sin fines comerciales: estudiantes, docentes, instituciones educativas, entidades públicas, organizaciones sin ánimo de lucro y uso personal (sección 2.2).
+- Tomar fragmentos pequeños del código para tu propio trabajo, con el crédito (sección 2.1).
+- Cambiar el código en tu computador para estudiarlo, y proponer mejoras al repositorio original (secciones 2.3 y 2.4).
+
+**No puedes**
+
+- Publicar, redistribuir, subir a otro repositorio ni ofrecer NoNo, completo o en partes que funcionen por sí solas.
+- Publicar versiones modificadas de NoNo, tampoco con otro nombre.
+- Usarlo en trabajo pagado sin una licencia comercial (sección 4).
+- Venderlo.
+- Usar su nombre o su figura para otro producto (sección 3).
+
+## 2. Permisos adicionales del autor
+
+### 2.1 Fragmentos con crédito
+
+Puedes copiar fragmentos pequeños de este código en tus propias obras, siempre que se cumplan las tres condiciones:
+
+1. **Que sean pequeños.** Un fragmento es una parte corta de un archivo (como guía, hasta unas 30 líneas seguidas, o una función corta). Todo lo que tomes, sumado, no puede reproducir NoNo ni ninguna de sus partes funcionales de modo que funcione por sí sola: la ventana en pantalla con su vuelo y sus gestos, el globo, la herramienta de guía, el canal entre el mod y la ventana, o las manos que actúan sobre la interfaz.
+2. **Que lleven el crédito**, junto al fragmento: `Fragmento de NoNo, de Felipe Restrepo Vélez (https://github.com/NoBodyCreated/nono), PolyForm Strict 1.0.0 con permisos adicionales.`
+3. **Que tu obra no se presente como NoNo** ni como una versión de él.
+
+Puedes adaptar el fragmento dentro de tu obra.
+
+### 2.2 Instalarlo y usarlo
+
+Para un propósito permitido (sin fines comerciales, o con una licencia comercial), puedes instalar NoNo desde este repositorio con el gestor de plugins de Claude Code y usarlo en tus sesiones, tal como está, con sus avisos de autoría y licencia.
+
+### 2.3 Cambios para estudiar
+
+Puedes cambiar el código en tu propio computador para estudiarlo, probar ideas o preparar una propuesta de mejora. Esas copias cambiadas no se publican ni se comparten.
+
+### 2.4 Propuestas al repositorio original
+
+Puedes proponer cambios al repositorio original con un *pull request*. GitHub permite que cualquiera haga una bifurcación (*fork*) de un repositorio público dentro de GitHub; esa copia sirve para verlo y para proponer cambios al original, y esta licencia no permite usarla para nada más.
+
+### 2.5 Las ideas
+
+Las ideas y los métodos no tienen dueño por derecho de autor: puedes inspirarte en ellos y construir lo tuyo desde cero, con tu propio código, tu propio nombre y tu propio diseño. Si lo haces, se agradece nombrar a NoNo como referencia.
+
+## 3. La marca no entra en esta licencia
+
+NoNo, no.body.lab, by.no.one y el isotipo de no.body.lab (la figura de NoNo: el aro y sus cuatro arcos, que el código dibuja) son signos distintivos de Felipe Restrepo Vélez. Ni esta licencia ni la de los documentos los cubren: todos los derechos reservados. Se pueden nombrar para referirse a este mod; no se pueden usar para nombrar, firmar ni promocionar otro producto.
+
+## 4. Licencia comercial
+
+Una oficina o una empresa que use NoNo en trabajo pagado necesita una licencia comercial de Felipe Restrepo Vélez. Escribe a no.body.created.v0@gmail.com.
+
+## 5. Lo de terceros
+
+NoNo no trae bibliotecas ni letras de terceros. Usa lo que viene con Windows (PowerShell, WPF y las API de Windows) y el motor de mods de Claude Code, cada uno con su propia licencia.
+
+---
+
+## In English (summary)
+
+The code is licensed under the **PolyForm Strict License 1.0.0** (official text below) with these additional permissions from the licensor, Felipe Restrepo Vélez:
+
+1. **Snippets with credit.** You may copy small fragments (roughly up to 30 consecutive lines, or one short function) into your own works, with the credit line from section 2.1, as long as everything you take does not reproduce NoNo or any of its functional parts (the on-screen window with its flight and gestures, the speech bubble, the guide tool, the mod-to-window channel, the hands that act on the interface) in a way that works on its own, and your work is not presented as NoNo or a version of it.
+2. **Install and use.** For a permitted purpose, you may install NoNo from this repository with Claude Code's plugin manager and use it unchanged in your sessions.
+3. **Changes for study.** You may modify the code on your own computer to study it or prepare a contribution; modified copies are not published or shared.
+4. **Contributions.** You may propose changes to the original repository through pull requests.
+
+You may not publish, redistribute or offer NoNo or modified versions of it, sell it, or use it in paid work without a commercial license. The names NoNo, no.body.lab and by.no.one and the no.body.lab isotype are not licensed: all rights reserved.
+
+---
+
+## Texto legal oficial / Official legal text
+
+# PolyForm Strict License 1.0.0
+
+<https://polyformproject.org/licenses/strict/1.0.0>
+
+## Acceptance
+
+In order to get any license under these terms, you must agree to them as both strict obligations and conditions to all your licenses.
+
+## Copyright License
+
+The licensor grants you a copyright license for the software to do everything you might do with the software that would otherwise infringe the licensor's copyright in it for any permitted purpose, other than distributing the software or making changes or new works based on the software.
+
+## Patent License
+
+The licensor grants you a patent license for the software that covers patent claims the licensor can license, or becomes able to license, that you would infringe by using the software.
+
+## Noncommercial Purposes
+
+Any noncommercial purpose is a permitted purpose.
+
+## Personal Uses
+
+Personal use for research, experiment, and testing for the benefit of public knowledge, personal study, private entertainment, hobby projects, amateur pursuits, or religious observance, without any anticipated commercial application, is use for a permitted purpose.
+
+## Noncommercial Organizations
+
+Use by any charitable organization, educational institution, public research organization, public safety or health organization, environmental protection organization, or government institution is use for a permitted purpose regardless of the source of funding or obligations resulting from the funding.
+
+## Fair Use
+
+You may have "fair use" rights for the software under the law. These terms do not limit them.
+
+## No Other Rights
+
+These terms do not allow you to sublicense or transfer any of your licenses to anyone else, or prevent the licensor from granting licenses to anyone else.  These terms do not imply any other licenses.
+
+## Patent Defense
+
+If you make any written claim that the software infringes or contributes to infringement of any patent, your patent license for the software granted under these terms ends immediately. If your company makes such a claim, your patent license ends immediately for work on behalf of your company.
+
+## Violations
+
+The first time you are notified in writing that you have violated any of these terms, or done anything with the software not covered by your licenses, your licenses can nonetheless continue if you come into full compliance with these terms, and take practical steps to correct past violations, within 32 days of receiving notice.  Otherwise, all your licenses end immediately.
+
+## No Liability
+
+***As far as the law allows, the software comes as is, without any warranty or condition, and the licensor will not be liable to you for any damages arising out of these terms or the use or nature of the software, under any kind of legal claim.***
+
+## Definitions
+
+The **licensor** is the individual or entity offering these terms, and the **software** is the software the licensor makes available under these terms.
+
+**You** refers to the individual or entity agreeing to these terms.
+
+**Your company** is any legal entity, sole proprietorship, or other kind of organization that you work for, plus all organizations that have control over, are under the control of, or are under common control with that organization.  **Control** means ownership of substantially all the assets of an entity, or the power to direct its management and policies by vote, contract, or otherwise.  Control can be direct or indirect.
+
+**Your licenses** are all the licenses granted to you for the software under these terms.
+
+**Use** means anything you do with the software requiring one of your licenses.
